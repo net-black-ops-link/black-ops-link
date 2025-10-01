@@ -29,4 +29,6 @@ To fully leverage the security and unique offerings of the Black Ops darknet mar
 
 Visit the official Black Ops darknet marketplace here: **http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion**
 
-Update:  18.09.2025 Link is now clickable and accessible
+
+
+Update:  Wednesday 01 October 2025 TOR URLs repaired
